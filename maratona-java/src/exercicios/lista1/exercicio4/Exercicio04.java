@@ -11,6 +11,7 @@ public class Exercicio04 {
         int sucessor = numero + 1;
         int antecessor = numero - 1;
         System.out.println("Seu antecessor é " + antecessor + " e seu sucessor é " + sucessor);
+        sc.close();
 
     }
 

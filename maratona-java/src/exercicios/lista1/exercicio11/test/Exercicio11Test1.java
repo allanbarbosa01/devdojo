@@ -7,9 +7,14 @@ import exercicios.lista1.exercicio11.dominio.Aluno;
 
 public class Exercicio11Test1 {
     public static void main(String[] args) {
-        Aluno aluno = new Aluno("Állan Barbosa",7,7.5,4,8);
-        System.out.println(aluno);
-        boolean aprovado = aluno.aprovado();
-        System.out.println("Situação: "+ (aprovado ? "Aprovado! :)" : "Reprovado! :("));
+        Aluno aluno1 = new Aluno("Állan Barbosa",7,7.5,5.5,8);
+        Aluno aluno2 = new Aluno("Letícia Castejón",10,10,10,10);
+        System.out.println(aluno1);
+        boolean situacao1 = aluno1.situacao();
+        System.out.println("Situação: "+ (situacao1 ? "Aprovado! :)" : "Reprovado! :("));
+        System.out.println("_____________");
+        System.out.println(aluno2);
+        boolean situacao2 = aluno2.situacao();
+        System.out.println("Situação: "+ (situacao2 ? "Aprovado! :)" : "Reprovado! :("));
     }
 }

@@ -30,17 +30,6 @@ public class Aluno {
                 "Nota 3: " + nota3 + "\n" +
                 "Nota 4: " + nota4 + "\n" +
                 "Media: " + CalculaMedia();
-
-
-
-//        return "Aluno{" +
-//                "nome='" + nome + '\'' +
-//                ", nota1=" + nota1 +
-//                ", nota2=" + nota2 +
-//                ", nota3=" + nota3 +
-//                ", nota4=" + nota4 +
-//                "Média Geral: " + CalculaMedia() +
-//                '}';
     }
 
     public String getNome() {

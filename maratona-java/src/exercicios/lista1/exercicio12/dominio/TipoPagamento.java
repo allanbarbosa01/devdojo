@@ -1,26 +1,33 @@
 package exercicios.lista1.exercicio12.dominio;
 
 public enum TipoPagamento {
-    AVISTA_DINHEIRO {
+    A_VISTA_DINHEIRO("À Vista em dinheiro ou Pix") {
         @Override
         public double formaPagamento(double valor) {
-            return (valor - (valor * 0.15));
+            return (valor * 0.85);
         }
-    }, AVISTA_CARTAO {
+    }, A_VISTA_CARTAO("A vista no cartão de crédito") {
         @Override
         public double formaPagamento(double valor) {
-            return (valor - (valor * 0.10));
+            return (valor * 0.9);
         }
-    }, PARCELADO_ATE_2X {
+    }, PARCELADO_ATE_2X("Parcelado no cartão em até 2 vezes sem juros") {
         @Override
         public double formaPagamento(double valor) {
             return valor;
         }
-    }, PARCELADO_3XMAIS {
+    }, PARCELADO_3X_MAIS("Parcelado no cartão em 3 vezes ou mais (Juros de 10%)") {
         @Override
         public double formaPagamento(double valor) {
-            return (valor + (valor * 0.1));
+            return (valor * 1.1);
         }
     };
+    private final String descricao;
+    TipoPagamento(String descricao) {
+        this.descricao = descricao;
+    }
+    public String getDescricao() {
+        return descricao;
+    }
     public abstract double formaPagamento(double valor);
     }

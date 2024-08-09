@@ -22,10 +22,9 @@ import exercicios.lista1.exercicio12.dominio.TipoPagamento;
 
 public class Exercicio12 {
     public static void main(String[] args) {
-        Produto produto = new Produto("Computador",5500, TipoPagamento.AVISTA_DINHEIRO);
+        Produto produto = new Produto("Computador",5500, TipoPagamento.PARCELADO_3X_MAIS);
         System.out.println(produto);
-//        System.out.println(TipoPagamento.AVISTA_DINHEIRO);
-        System.out.println("Total a pagar: R$"+produto.getTipoPagamento().formaPagamento(5500));
+        System.out.println("Total a pagar: R$"+produto.getValorFinal());
 
     }
 }

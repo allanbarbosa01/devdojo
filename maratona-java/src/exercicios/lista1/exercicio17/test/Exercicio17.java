@@ -4,5 +4,11 @@
 
 package exercicios.lista1.exercicio17.test;
 
+import exercicios.lista1.exercicio17.dominio.Temperatura;
+
 public class Exercicio17 {
+    public static void main(String[] args) {
+        Temperatura temperatura = new Temperatura(72);
+        System.out.println(temperatura.toString());
+    }
 }

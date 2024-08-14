@@ -11,7 +11,7 @@ public class Exercicio19 {
 
         for (multiplicando = 1; multiplicando <= 10; multiplicando++) {
             System.out.println("Tabuada do "+multiplicando);
-            System.out.println("");
+            System.out.println();
             for (multiplicador = 1; multiplicador <= 10; multiplicador++) {
                 System.out.println(multiplicando + "x" + multiplicador + " = " + multiplicador * multiplicando);
             }

@@ -12,3 +12,6 @@
 - (API REST) - SPRING ⌛ (0%)  
 - DESAFIO - VERSÃO 2 ⌛ (0%)  
 - EXTRAS ⌛ (0%)
+
+      ( -_•)▄︻テحكـ━一💥  
+     

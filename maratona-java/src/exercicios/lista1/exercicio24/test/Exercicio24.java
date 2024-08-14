@@ -10,5 +10,11 @@ Fórmula: distância = tempo x velocidade.
 
 package exercicios.lista1.exercicio24.test;
 
+import exercicios.lista1.exercicio24.dominio.ViagemDeCarro;
+
 public class Exercicio24 {
+    public static void main(String[] args) {
+        ViagemDeCarro viagemDeCarro = new ViagemDeCarro(292,80);
+        System.out.println(viagemDeCarro);
+    }
 }

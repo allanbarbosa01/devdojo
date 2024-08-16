@@ -7,7 +7,7 @@
 - Curso #DevDojo (Video aulas) Parte 3: 143/217 ⌛ (0%)  
 - SQL + BANCOS DE DADOS ⌛ (0%)  
 - MAVEN + CONEXÃO COM DB ⌛ (0%)  
-- *(Limbo - Entender) Curso #DevDojo (Video aulas) Parte 4: 218/242 ⌛ (0%)  
+- *(Não fazer por enquanto) Curso #DevDojo (Video aulas) Parte 4: 218/242 ⌛ (0%)  
 - Curso #DevDojo (Video aulas) Parte 5: 243/285 ⌛ (0%)  
 - (API REST) - SPRING ⌛ (0%)  
 - DESAFIO - VERSÃO 2 ⌛ (0%)  

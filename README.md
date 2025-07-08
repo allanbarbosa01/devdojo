@@ -1,17 +1,25 @@
-- Curso Git & gitHub - 50%  
-- Curso Nelio Alves - (Módulos) 08/26 (30%) ⌛ (Pensando em fazer em 2x para fixar mais a parte teórica que foi vista no #DevDojo)  
-- Curso #DevDojo (Video aulas) Parte 1: 01/94 ✔ (100%)  
-- Exercicios roadmap 24/24 ✔  (100%)
-- Curso #DevDojo (Video aulas) Parte 2: 95/142 ⌛ (23,4%)   (106)
-- Desafio - (Java do básico ao Jr. - #DevMagro - https://docs.google.com/document/d/12ek1Wsd_ibuwTOjHtLPZwEWdy5-A7cRoO2Bf-v5G1_s/edit?pli=1#heading=h.q1yh237ju2lx) ⌛ (0%)  
-- Curso #DevDojo (Video aulas) Parte 3: 143/217 ⌛ (0%)  
-- SQL + BANCOS DE DADOS ⌛ (0%)  
-- MAVEN + CONEXÃO COM DB ⌛ (0%)  
-- *(Não fazer por enquanto) Curso #DevDojo (Video aulas) Parte 4: 218/242 ⌛ (0%)  
-- Curso #DevDojo (Video aulas) Parte 5: 243/285 ⌛ (0%)  
-- (API REST) - SPRING ⌛ (0%)  
-- DESAFIO - VERSÃO 2 ⌛ (0%)  
-- EXTRAS ⌛ (0%)
+# DevDojo Exercises 🚀
 
-      ( -_•)▄︻テحكـ━一💥  
-     
+Repositório dedicado aos exercícios e projetos realizados durante meus estudos com o curso e vídeos do **DevDojo**, focando no fortalecimento de conceitos fundamentais em **Java**, orientação a objetos e boas práticas de programação.
+
+---
+
+## 📚 O que você encontra aqui?
+
+- Exercícios práticos de **Java**, cobrindo:
+  - Sintaxe básica
+  - Estruturas de repetição e condição
+  - Orientação a objetos (classes, métodos, herança, polimorfismo)
+  - Trabalhos com arrays e coleções
+  - Introdução a API Streams
+- Exemplos incrementais para fixar o aprendizado
+
+---
+
+💡 Motivação
+Este repositório serve como trilha pessoal de aprendizado, onde consolido a prática dos conceitos abordados pelo DevDojo. É também um espaço para revisitar problemas e aprimorar soluções.
+
+🤝 Contribuição
+Este repositório é de estudo pessoal, mas sugestões e dicas são sempre bem-vindas!
+Fique à vontade para abrir issues ou pull requests.
+
